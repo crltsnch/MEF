@@ -2,6 +2,8 @@
 
 El link a mi repositorio es: [Github](https://github.com/crltsnch/MEF)
 
+Para descargar las dependencias pip install -r requirements.txt
+
 En este ejercicio hemos resuelto un desafío que combina la inteligencia artificial con el Método de Elementos Finitos (MEF) en 3D.
 
 Parte I: Fundamentos de Elementos Finitos
