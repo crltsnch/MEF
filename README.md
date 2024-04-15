@@ -1,6 +1,5 @@
 # MEF
 
-# Elementos-finitos
 El link a mi repositorio es: [Github](https://github.com/crltsnch/MEF)
 
 En este ejercicio hemos resuelto un desafío que combina la inteligencia artificial con el Método de Elementos Finitos (MEF) en 3D.
@@ -27,4 +26,8 @@ Post-procesamiento: Generar un script para calcular y visualizar las tensiones y
 Caso de Estudio: Aplique todo el flujo de trabajo en un caso de estudio estructural proporcionado. Disutir los resultados y cómo las decisiones tomadas en cada etapa afectaron el resultado final.
 
 ## Resolución
-Para este ejercicio hemos ejecutado el archivo 0_main_mesh_nodes.py de la carpeta mesh para generar los archivos nodes.txt, mesh.txt. EStoy archivos son usados por nuestro programa apra generar una serie de archivos vtu que serán los que le ingresaremos a Preview para visualizar nuestro problema.
+Para este ejercicio hemos ejecutado el archivo 0_main_mesh_nodes.py de la carpeta mesh para generar los archivos nodes.txt, mesh.txt. EStos archivos son usados por nuestro programa para generar una serie de archivos vtu que serán los que le ingresaremos a Preview para visualizar nuestro problema (MEF_beam_bulk_1.vtu, MEF_beam_bulk_2.vtu, así hasta 10). Esta carpeta de archivos se la hemos ingresado a Preview y nos ha devuelto esto:
+
+ 
+<img width="1440" alt="Captura de pantalla 2024-04-15 a las 22 19 46" src="https://github.com/crltsnch/Elementos-finitos/assets/91721777/f769972e-db69-4550-9137-b9ecbe59287b">
+
