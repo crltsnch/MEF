@@ -1,7 +1,7 @@
 # MEF
 
 # Elementos-finitos
-El link a mi repositorio es: [Github](https://github.com/crltsnch/Elementos-finitos)
+El link a mi repositorio es: [Github](https://github.com/crltsnch/MEF)
 
 En este ejercicio hemos resuelto un desafío que combina la inteligencia artificial con el Método de Elementos Finitos (MEF) en 3D.
 
